@@ -1,0 +1,11 @@
+.logo {
+  height: 5.2rem;
+  display: flex;
+}
+.p{
+  text-align: center;
+  margin: 5px 10px;
+}
+.img{
+  max-height: 35px;
+}
